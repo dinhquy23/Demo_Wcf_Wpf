@@ -1,0 +1,7 @@
+C:\Users\quy.nguyen\Desktop\Demo_Wcf_Wpf\WcfServiceTest\bin\WcfServiceTest.dll.config
+C:\Users\quy.nguyen\Desktop\Demo_Wcf_Wpf\WcfServiceTest\bin\WcfServiceTest.dll
+C:\Users\quy.nguyen\Desktop\Demo_Wcf_Wpf\WcfServiceTest\bin\WcfServiceTest.pdb
+C:\Users\quy.nguyen\Desktop\Demo_Wcf_Wpf\WcfServiceTest\obj\Debug\WcfServiceTest.csproj.AssemblyReference.cache
+C:\Users\quy.nguyen\Desktop\Demo_Wcf_Wpf\WcfServiceTest\obj\Debug\WcfServiceTest.csproj.CoreCompileInputs.cache
+C:\Users\quy.nguyen\Desktop\Demo_Wcf_Wpf\WcfServiceTest\obj\Debug\WcfServiceTest.dll
+C:\Users\quy.nguyen\Desktop\Demo_Wcf_Wpf\WcfServiceTest\obj\Debug\WcfServiceTest.pdb

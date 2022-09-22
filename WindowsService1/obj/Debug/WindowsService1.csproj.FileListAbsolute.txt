@@ -1,0 +1,10 @@
+C:\Users\quy.nguyen\Desktop\Demo_Wcf_Wpf\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\quy.nguyen\Desktop\Demo_Wcf_Wpf\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\quy.nguyen\Desktop\Demo_Wcf_Wpf\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\quy.nguyen\Desktop\Demo_Wcf_Wpf\WindowsService1\obj\Debug\WindowsService1.csproj.AssemblyReference.cache
+C:\Users\quy.nguyen\Desktop\Demo_Wcf_Wpf\WindowsService1\obj\Debug\WindowsService1.csproj.SuggestedBindingRedirects.cache
+C:\Users\quy.nguyen\Desktop\Demo_Wcf_Wpf\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\quy.nguyen\Desktop\Demo_Wcf_Wpf\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.cache
+C:\Users\quy.nguyen\Desktop\Demo_Wcf_Wpf\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+C:\Users\quy.nguyen\Desktop\Demo_Wcf_Wpf\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\quy.nguyen\Desktop\Demo_Wcf_Wpf\WindowsService1\obj\Debug\WindowsService1.pdb
