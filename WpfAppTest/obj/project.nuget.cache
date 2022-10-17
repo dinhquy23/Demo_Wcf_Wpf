@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QUQfVxukGsctHu7gbk+1nlkCgW4o7MHLBfp8CFhr+At9nT9Bq4Y8SyxbFEAIIT4G58crQg1gJij1IVRkuLArQQ==",
+  "dgSpecHash": "+oyC1lNen+8EKIc3KkY78GyNS7oR1XS6tyrYx6egyNqkDeL5Z166mQRFnRpmbJambBlbMVT6bzatWguHa2AdAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\quy.nguyen\\source\\repos\\Demo_Wcf_Wpf\\WpfAppTest\\WpfAppTest.csproj",
+  "projectFilePath": "Z:\\NTQ_Fresher\\WPF_WCF_WindowService\\Demo_Wcf_Wpf\\WpfAppTest\\WpfAppTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\quy.nguyen\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\quy.nguyen\\.nuget\\packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",

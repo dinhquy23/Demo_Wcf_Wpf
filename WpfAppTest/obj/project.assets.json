@@ -3056,11 +3056,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\quy.nguyen\\source\\repos\\Demo_Wcf_Wpf\\WpfAppTest\\WpfAppTest.csproj",
+      "projectUniqueName": "Z:\\NTQ_Fresher\\WPF_WCF_WindowService\\Demo_Wcf_Wpf\\WpfAppTest\\WpfAppTest.csproj",
       "projectName": "WpfAppTest",
-      "projectPath": "C:\\Users\\quy.nguyen\\source\\repos\\Demo_Wcf_Wpf\\WpfAppTest\\WpfAppTest.csproj",
+      "projectPath": "Z:\\NTQ_Fresher\\WPF_WCF_WindowService\\Demo_Wcf_Wpf\\WpfAppTest\\WpfAppTest.csproj",
       "packagesPath": "C:\\Users\\quy.nguyen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\quy.nguyen\\source\\repos\\Demo_Wcf_Wpf\\WpfAppTest\\obj\\",
+      "outputPath": "Z:\\NTQ_Fresher\\WPF_WCF_WindowService\\Demo_Wcf_Wpf\\WpfAppTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3082,8 +3082,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\quy.nguyen\\source\\repos\\Demo_Wcf_Wpf\\WcfServiceTest\\WcfServiceTest.csproj": {
-              "projectPath": "C:\\Users\\quy.nguyen\\source\\repos\\Demo_Wcf_Wpf\\WcfServiceTest\\WcfServiceTest.csproj"
+            "Z:\\NTQ_Fresher\\WPF_WCF_WindowService\\Demo_Wcf_Wpf\\WcfServiceTest\\WcfServiceTest.csproj": {
+              "projectPath": "Z:\\NTQ_Fresher\\WPF_WCF_WindowService\\Demo_Wcf_Wpf\\WcfServiceTest\\WcfServiceTest.csproj"
             }
           }
         }
